@@ -9,5 +9,5 @@ Example Query: Developer jobs in Toronto, resulting in 1000 jobs
 ![skills_plot](https://cloud.githubusercontent.com/assets/10667203/9595487/e42af7ce-5034-11e5-8145-b78fba785e5f.png)
 
 <b>Most Frequent Two Word Bigrams</b> 
-![bigrams_plot](https://cloud.githubusercontent.com/assets/10667203/9595488/e42c246e-5034-11e5-835a-aab20f9c30cb.png)
+![bigram](https://cloud.githubusercontent.com/assets/10667203/9619610/c315beb0-50df-11e5-9950-bdc6ab107b1a.png)
 
